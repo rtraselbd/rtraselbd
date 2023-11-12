@@ -1,4 +1,4 @@
-👋 Hey there, I'm Rasel Islam Rafi, a passionate backend developer specializing in PHP, Laravel, CodeIgniter and WHMCS. As the CEO of Uddoktapay, I lead a dedicated team in crafting innovative solutions that empower businesses.
+👋 Hey there, I'm Rasel Islam Rafi, a passionate backend developer specializing in PHP, Laravel, CodeIgniter, and WHMCS. As the CEO of Uddoktapay, I lead a dedicated team in crafting innovative solutions that empower businesses.
 
 🚀 **About Me:**
 - 💻 Backend Developer | PHP | Laravel | CodeIgniter
@@ -17,7 +17,7 @@ I thrive on staying up-to-date with the latest technologies and industry trends.
 
 📫 **Let's Connect:**
 - 📧 Email: [rtraselbd@email.com](mailto:rtraselbd@email.com)
-- 🌐 Portfolio: [rasel.com](https://rasel.com)
+- 🌐 Portfolio: [rtrasel.com](https://rtrasel.com)
 - 🐦 Twitter: [@rtraselbd](https://twitter.com/rtraselbd)
 - 💼 LinkedIn: [linkedin.com/in/rtraselbd](https://linkedin.com/in/rtraselbd)
 - 📘 Facebook: [facebook.com/rtraselbd](https://facebook.com/rtraselbd)
