@@ -32,4 +32,4 @@ I'm passionate about transforming ideas into reality. Whether it's optimizing ba
 Beyond coding, I'm driven by the desire to make a positive impact on the tech industry. Let's connect, collaborate, and make a difference together!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rtraselbd&label=Profile%20views&color=0e75b6&style=flat" alt="rtraselbd" /> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rtraselbd&show_icons=true&locale=en" alt="rtraselbd" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rtraselbd&" alt="rtraselbd" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rtraselbd&show_icons=true&locale=en" alt="rtraselbd" /></p>
